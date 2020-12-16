@@ -1,0 +1,269 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. A B Prabhu",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. A P Misra",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. A K Mandal",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Friday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. A S Bawa",
+      "appointment": [
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. A K Sharma",
+      "appointment": [
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. A M Argikar",
+      "appointment": [
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. A S Sandhya",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. AJAY KUMAR VERMA",
+      "appointment": [
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Friday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Aarthi Lakshmanan",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Abhijeet Kumar",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Friday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Abhijeet Singh �",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Abhilekh Srivastava",
+      "appointment": [
+
+      ]
+    },
+    {
+      "name": "Dr. Abhishek Kulkarni",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Friday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Abhishek Singhal",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Friday"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Abhishek Puri",
+      "appointment": [
+        {
+          "days": "Monday"
+        },
+        {
+          "days": "Tuesday"
+        },
+        {
+          "days": "Wednesday"
+        },
+        {
+          "days": "Thursday"
+        },
+        {
+          "days": "Friday"
+        },
+        {
+          "days": "Saturday"
+        },
+        {
+          "days": "Sunday"
+        }
+      ]
+    }
+  ]
+}
